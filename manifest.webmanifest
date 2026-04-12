@@ -2,7 +2,7 @@
   "name": "PytaGolas",
   "short_name": "PytaGolas",
   "id": "./",
-  "start_url": "./",
+  "start_url": "./Pytagolas/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
